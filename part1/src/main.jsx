@@ -1,5 +1,5 @@
 import ReactDOM from 'react-dom/client'
 
-import App from './App'
+import Appois from './App'
 
-ReactDOM.createRoot(document.getElementById('root')).render(<App />)
+ReactDOM.createRoot(document.getElementById('root')).render(<Appois />)
